@@ -9,9 +9,9 @@ Aplicació desenvolupada en **Go (Golang)** que consulta la previsió meteorolò
 
 - ## Agraïments
 
-* Pràctica realitzada en el marc del curs impartit per **Oriol Tinoco** al **Cibernàrium** (del 20 al 27 de juliol de 2026).
-* S'agraeixen els recursos facilitats per **Barcelona Activa**.
-* Suport tècnic i analític a càrrec de **Gemini**.
+* Pràctica realitzada en el marc del curs impartit per **[Oriol Tinoco](https://www.linkedin.com/in/oriol-tinoco-marco/)** al **Cibernàrium** (del 20 al 27 de juliol de 2026).
+* S'agraeixen els recursos facilitats per **[Barcelona Activa](https://www.barcelonactiva.cat/)**.
+* Suport tècnic i analític a càrrec de **[Gemini](https://gemini.google.com/)**.
 
   ## Roadmap / Properament
 - [ ] Implementar control mental per predir el temps sense dependre de l'AEMET.
